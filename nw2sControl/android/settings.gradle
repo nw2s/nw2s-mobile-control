@@ -1,0 +1,3 @@
+rootProject.name = 'nw2sControl'
+
+include ':app'
